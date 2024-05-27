@@ -1,0 +1,9 @@
+class: Shoes
+table: shoes
+fields:
+  name: String
+  price: int
+  ratings: double
+  brand: String
+  review: String
+  size: List<int>
